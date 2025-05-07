@@ -1,0 +1,30 @@
+*{
+  font-family:Arial, Helvetica, sans-serif;
+}
+.bg-blue{
+  background-color: #2062ac !important;
+}
+.hero{
+  background-image: url('./assets/hero_banner.avif');
+  min-height: 90vh;
+}
+.main_head{
+  font-weight: 600;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.btn-blue-yellow{
+  color: #2062ac;
+  font-weight: 600;
+  background-color: rgb(243, 255, 8);
+}
+.text-blue{
+  color: #2062ac; 
+
+}
+.bg-yellow{
+  background-color: rgb(243, 255, 8);
+}
+.text-yellow{
+  color:  rgb(243, 255, 8);;
+}
