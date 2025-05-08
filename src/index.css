@@ -5,13 +5,18 @@
   background-color: #2062ac !important;
 }
 .hero{
-  background-image: url('./assets/hero_banner.avif');
+  background-image: url('./assets/hero_banner.jpeg');
   min-height: 90vh;
 }
 .main_head{
   font-weight: 600;
   font-size: 50px;
   text-transform: uppercase;
+}
+@media (max-width:600px) {
+  .main_head{
+    font-size: 30px;
+  }
 }
 .btn-blue-yellow{
   color: #2062ac;

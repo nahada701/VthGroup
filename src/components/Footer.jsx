@@ -6,7 +6,7 @@ const Footer = () => {
     <div id='contact'>
         <div className='bg-blue text-light py-1' >
     <div className='container px-2 w-100 mt-5 ' >
-        <div className="d-flex justify-content-between flex-wrap">
+        <div className="d-flex justify-content-between flex-wrap ">
             <div className='d-flex flex-column pb-2' >
                <img src={logo} width={'100px'} alt="" />
                 <h2>مجموعة في تي اتش</h2>

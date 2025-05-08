@@ -36,7 +36,7 @@ function App() {
     </div>
   </section>
 {/* mission vision */}
-<div className=' bg-light my-5 container    '>
+<div className='  py-5 mb-5 container    '>
     <section className=' ' id='about'>
       <div className="row bg-yellow   p-3">
       <div className="col-md-6  ">
@@ -45,14 +45,14 @@ function App() {
       <div className="col-md-6 my-3 px-4 ">
         <h2 className='fw-bold text-blue'>Our Mission</h2>
         <p>
-        At VTH Group, our mission is to provide industries with comprehensive and dependable solutions in manpower supply, project material procurement, and excess and scrap material management. We are committed to helping our clients complete their projects with efficiency, quality, and cost-effectiveness by offering skilled manpower, sourcing premium materials, and turning excess resources into valuable assets. Our approach is centered around understanding the unique needs of every client and delivering services that align with their goals, timelines, and budget requirements.
+        At VTH Group, our mission is to provide industries with comprehensive and dependable solutions in manpower supply, project material procurement, and excess and scrap material management. We are committed to helping our clients complete their projects with efficiency, quality, and cost-effectiveness by offering skilled manpower, sourcing premium materials, and turning excess resources into valuable assets.
         <br />
 We believe that success is built on trust, consistency, and continuous improvement. That’s why we invest in strengthening our workforce capabilities, building reliable supply chains, and promoting sustainable practices in scrap management. By maintaining high standards of safety, integrity, and professionalism, we aim to build long-term partnerships that empower businesses to grow while contributing to a cleaner, resource-efficient future.
         </p>
       </div>
-        <div className="col-md-6 my-3 ">
+        <div className="col-md-6 my-3  ">
           <h2 className='fw-bold text-blue'>Our Vision</h2>
-          <p>Our vision at VTH Group is to become a leading force in integrated supply solutions — recognized across industries for our commitment to excellence, innovation, and sustainability. We aspire to set new benchmarks in the manpower supply sector, streamline the material procurement process for projects of all scales, and lead the way in responsible and eco-friendly scrap management practices. As we grow, our focus remains on helping our clients operate more efficiently, reduce waste, and meet their business objectives with confidence.
+          <p className=''>Our vision at VTH Group is to become a leading force in integrated supply solutions — recognized across industries for our commitment to excellence, innovation, and sustainability. We aspire to set new benchmarks in the manpower supply sector, streamline the material procurement process for projects of all scales, and lead the way in responsible and eco-friendly scrap management practices.
             <br />
 Looking ahead, we envision expanding our footprint across national and global markets, evolving into a trusted partner for industries seeking complete resource solutions. By embracing technology, enhancing our service offerings, and upholding our core values, we aim to drive positive change in the industries we serve — making VTH Group synonymous with quality, reliability, and sustainable progress.</p>
         </div>
@@ -126,30 +126,30 @@ Looking ahead, we envision expanding our footprint across national and global ma
 <section className='container my-5'>
 <h2 className='text-blue fw-bold'>Our Products</h2>
   <div className="row">
-    <div className="col-md-4 mb-3">
+    <div className="col-md-4 col-6 mb-3">
 
   <img src={pic1} className='w-100 rounded' alt="" />
     </div>
-    <div className="col-md-4 mb-3">
+    <div className="col-md-4 col-6  mb-3">
 
   <img src={pic2} className='w-100 rounded' alt="" />
     </div>
-    <div className="col-md-4 mb-3">
+    <div className="col-md-4 col-6  mb-3">
 
 <img src={pic3} className='w-100 rounded' alt="" />
   </div>
     
-  <div className="col-md-4 mb-3">
+  <div className="col-md-4 col-6  mb-3">
 
 <img src={pic4} className='w-100 rounded' alt="" />
   </div>
         
 
-  <div className="col-md-4 mb-3">
+  <div className="col-md-4 col-6  mb-3">
 
 <img src={pic6} className='w-100 rounded' alt="" />
   </div>
-  <div className="col-md-4 mb-3">
+  <div className="col-md-4 col-6  mb-3">
 
 <img src={pic7} className='w-100 rounded' alt="" />
   </div>
