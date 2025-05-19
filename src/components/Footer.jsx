@@ -31,7 +31,7 @@ const Footer = () => {
             <p> <Phone size={26} className='me-2' />+966 56 741 92 45 </p>
             <p> <Phone size={26} className='me-2 ' />+966 57 218 40 37 </p>
             <p> <Phone size={26} className='me-2' />+971 56 907 09 50 </p>
-            <p><Mail size={26} className='me-2' />vthgroup1@gmail.com</p>
+            <p><Mail size={26} className='me-2' />info@vthgrp.com</p>
 
 
            </div>
