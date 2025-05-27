@@ -25,7 +25,7 @@ function App() {
         <div className="col-md-6 m-0 bg-light text-dark d-flex align-items-center justify-content-center p-5">
           <div>
             <h1 className='main_head'>Your trusted <br /> partner in <br /> manpower , <br /> material supply & Scrap Purchase</h1>
-            <h6>Deliveing workforce  and materials  <br /> to empower to your projects</h6>
+            <h6>Delivering workforce  and materials  <br /> to empower to your projects</h6>
             <a href='#contact' className='my-4 btn btn-blue-yellow'>
               Get in Touch
             </a>
